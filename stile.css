@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+.navigationBar{
+    position: relative;
+    height: 50px;
+    width: auto;
+    /* background-color: blueviolet; */
+    background: linear-gradient(to bottom,  blueviolet, black ) no-repeat center center fixed;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bar{
+    position: relative;
+    height: 25px;
+    width: auto;
+    /* background-color: blueviolet; */
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
